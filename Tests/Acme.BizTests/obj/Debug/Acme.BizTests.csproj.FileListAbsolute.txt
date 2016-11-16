@@ -1,0 +1,11 @@
+C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\bin\Debug\Acme.BizTests.dll
+C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\bin\Debug\Acme.BizTests.pdb
+C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\bin\Debug\Acme.Biz.dll
+C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\bin\Debug\Acme.Common.dll
+C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\bin\Debug\Acme.Biz.pdb
+C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\bin\Debug\Acme.Common.pdb
+C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.csprojResolveAssemblyReference.cache
+C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.dll
+C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.pdb
