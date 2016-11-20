@@ -3,3 +3,8 @@ C:\Users\gmckee\Source\Repos\Collections-ACME\Acme.Common\bin\Debug\Acme.Common.
 C:\Users\gmckee\Source\Repos\Collections-ACME\Acme.Common\obj\Debug\Acme.Common.csprojResolveAssemblyReference.cache
 C:\Users\gmckee\Source\Repos\Collections-ACME\Acme.Common\obj\Debug\Acme.Common.dll
 C:\Users\gmckee\Source\Repos\Collections-ACME\Acme.Common\obj\Debug\Acme.Common.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Common\bin\Debug\Acme.Common.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Common\bin\Debug\Acme.Common.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Common\obj\Debug\Acme.Common.csprojResolveAssemblyReference.cache
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Common\obj\Debug\Acme.Common.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Common\obj\Debug\Acme.Common.pdb

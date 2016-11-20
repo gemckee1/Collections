@@ -5,3 +5,10 @@ C:\Users\gmckee\Source\Repos\Collections-ACME\Acme.Biz\bin\Debug\Acme.Common.pdb
 C:\Users\gmckee\Source\Repos\Collections-ACME\Acme.Biz\obj\Debug\Acme.Biz.csprojResolveAssemblyReference.cache
 C:\Users\gmckee\Source\Repos\Collections-ACME\Acme.Biz\obj\Debug\Acme.Biz.dll
 C:\Users\gmckee\Source\Repos\Collections-ACME\Acme.Biz\obj\Debug\Acme.Biz.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Biz\bin\Debug\Acme.Biz.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Biz\bin\Debug\Acme.Biz.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Biz\bin\Debug\Acme.Common.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Biz\bin\Debug\Acme.Common.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Biz\obj\Debug\Acme.Biz.csprojResolveAssemblyReference.cache
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Biz\obj\Debug\Acme.Biz.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Biz\obj\Debug\Acme.Biz.pdb

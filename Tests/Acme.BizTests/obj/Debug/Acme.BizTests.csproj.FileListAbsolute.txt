@@ -9,3 +9,14 @@ C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\bin\Debug\Micr
 C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.csprojResolveAssemblyReference.cache
 C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.dll
 C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.BizTests\bin\Debug\Acme.BizTests.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.BizTests\bin\Debug\Acme.BizTests.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.BizTests\bin\Debug\Acme.Biz.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.BizTests\bin\Debug\Acme.Common.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.BizTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.BizTests\bin\Debug\Acme.Biz.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.BizTests\bin\Debug\Acme.Common.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.BizTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.csprojResolveAssemblyReference.cache
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.pdb
