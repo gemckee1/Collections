@@ -7,3 +7,12 @@ C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.CommonTests\bin\Debug\M
 C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.csprojResolveAssemblyReference.cache
 C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.dll
 C:\Users\gmckee\Source\Repos\Collections-ACME\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.CommonTests\bin\Debug\Acme.CommonTests.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.CommonTests\bin\Debug\Acme.CommonTests.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.CommonTests\bin\Debug\Acme.Common.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.CommonTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.CommonTests\bin\Debug\Acme.Common.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.CommonTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.csprojResolveAssemblyReference.cache
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.pdb

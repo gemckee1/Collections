@@ -11,3 +11,16 @@ C:\Users\gmckee\Source\Repos\Collections-ACME\Acme.Win\obj\Debug\Acme.Win.Vendor
 C:\Users\gmckee\Source\Repos\Collections-ACME\Acme.Win\obj\Debug\Acme.Win.csproj.GenerateResource.Cache
 C:\Users\gmckee\Source\Repos\Collections-ACME\Acme.Win\obj\Debug\Acme.Win.exe
 C:\Users\gmckee\Source\Repos\Collections-ACME\Acme.Win\obj\Debug\Acme.Win.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Win\bin\Debug\Acme.Win.exe.config
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Win\bin\Debug\Acme.Win.exe
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Win\bin\Debug\Acme.Win.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Win\bin\Debug\Acme.Biz.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Win\bin\Debug\Acme.Common.dll
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Win\bin\Debug\Acme.Biz.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Win\bin\Debug\Acme.Common.pdb
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Win\obj\Debug\Acme.Win.csprojResolveAssemblyReference.cache
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Win\obj\Debug\Acme.Win.Properties.Resources.resources
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Win\obj\Debug\Acme.Win.VendorWin.resources
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Win\obj\Debug\Acme.Win.csproj.GenerateResource.Cache
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Win\obj\Debug\Acme.Win.exe
+C:\Users\greg.MCKEESOLUTIONS\Source\Repos\Collections\Acme.Win\obj\Debug\Acme.Win.pdb
